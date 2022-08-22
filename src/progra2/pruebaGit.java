@@ -4,4 +4,8 @@ public class pruebaGit {
 
 	private Integer numeroX;
 	private Integer numeroY;
+	
+	public pruebaGit () {
+		
+	}
 }
